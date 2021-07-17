@@ -31,6 +31,9 @@ img {
   height: 100%;
 }
 
+imgLeom {
+  height: 150% !important;
+}
 .dsc-heading {
   text-align: center;
   background-color: #000;
